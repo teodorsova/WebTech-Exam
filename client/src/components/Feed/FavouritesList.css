@@ -1,0 +1,24 @@
+tr{
+}
+thead {
+    color: white;
+    background-color: #797596;
+}
+
+tbody {
+    color: white;
+    background-color: #BBADA0;
+}
+
+input {
+    width: max-content;
+}
+
+.table-btn {
+    color: white;
+    background-color: #797596;
+    border-radius: 1px solid white;
+    width: 60px;
+    height: 40px;
+    border-radius: 5px;
+}
